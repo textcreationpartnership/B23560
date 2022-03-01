@@ -1,0 +1,282 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the supreme authority, the right honorable the Commons of England assembled in Parliament. The humble petition of Godfrey Goodman, late Bishop of Gloucester.</title>
+            <author>Goodman, Godfrey, 1583-1656.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23560</idno>
+            <idno type="STC">Wing G1102</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.12[15]</idno>
+            <idno type="STC">ESTC R229309</idno>
+            <idno type="EEBO-CITATION">99888309</idno>
+            <idno type="PROQUEST">ocm99888309</idno>
+            <idno type="VID">201719</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B23560)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201719)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C26:3[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the supreme authority, the right honorable the Commons of England assembled in Parliament. The humble petition of Godfrey Goodman, late Bishop of Gloucester.</title>
+                  <author>Goodman, Godfrey, 1583-1656.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed and dated:  August 31. 1649. Godfrey Goodman.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:201719:1" rendition="simple:additions"/>
+            <head>To the Supreme Authority, the right Honora<g ref="char:EOLhyphen"/>ble the Commons of England aſſembled in <hi>PARLIAMENT. The humble Petition of</hi> Godfrey Goodman, <hi>late Biſhop of</hi> Glouceſter.</head>
+            <div type="letter_of_petition">
+               <opener>Sheweth,</opener>
+               <p>
+                  <seg rend="decorInit">T</seg>Hat your Petitioner hath ſuffered in theſe times, as much proportionably, and in as hard a manner as any other man hath done (as verily he beleeveth.) Though no man can produce better Certificates, or give greater aſſurance of his innocency, than your Petitioner can doe; That his Pockets have been twice ſearched, all his Letters peruſed, and much enquiry made to finde out accuſations againſt him: Yet he humbly thanks God that he hath ever been found innocent; That he hath not only loſt in effect, all his owne Monies, But very much what belongs to others, inſomuch that for Orphants alone he hath paſt over a Leaſe which in former times would have yealded fouteene or fifteene hundred pounds, beſides great Arreares which are behind and unpaid, and for which he ſhould make ſatisfaction to a great value; though he uſed all poſſible meanes to preſerve them, ſending moneys beyond Seas to <hi>Hamborow</hi> by Bill of Exchange, yet were they called back againe, and paid to the uſe of the Parliament, as may appeare by the Acquittance, the like whereof he conceives hath not befallen any other man though the greateſt delinquent. That notwithſtanding all his former ſufferings, yet he ſtill cannot be freed. Lately there came an Officer to demand Ninty ſix pound, pretending it to be a debt due to your Pet. and that he was to receive it for the uſe of the Parliament. With<g ref="char:EOLhyphen"/>in this moneth two of his neighbours were brought up to <hi>London</hi> living above 40 miles diſtant, onely to be examined what debts were due to your Pet. that others might receive them. Your Pet. holding one Perſonage in <hi>Commendam,</hi> one Mr. <hi>Newbery</hi> now for ſome yeares hath enjoyed the whole benefit, upon pretence that your Pet. is Sequeſtered, and his ſerving the Cure there. Whereas your Petitioner is freed from Sequeſtrati<g ref="char:EOLhyphen"/>on by the Articles of <hi>Angleſey;</hi> neither hath he diſcharged the Cure, for that he hath not adminiſtred the Communion all his time, nor Baptized their children: The Pariſhioners have generally made their Certificates in the behalfe of your Pet. who in his wants deſiring to have ſome relife out of his Parſonage, it beeing well worth 180 l. <hi>per annum.</hi> Mr <hi>Newbery</hi> gave him him this anſwer, that he ought to have none, becauſe he had neither wife nor children, though indeed your Pet. had very well deſerved of him. That while he enjoyed his preferments, he takes God to witneſſe, that he never thought it lawfull for him to inrich himſelfe by any Church meanes, but did ever deſire God to direct him, that he might ſpend his Church meanes in a Church-like manner, and to the beſt uſes: Inſomuch that being of himſelfe meanely provided, and having lived ſeven yeares without Rents, upon his owne ſtock; which being now wholy exhauſted, he wants meanes to ſubſiſt, and doth humbly begg ſome maintenance for his Reliefe, and that he may be freed from Sequeſtrations or any Delinquency, proteſting that wittingly and willingly he never did, nor ever ſhall offend the Parliament.</p>
+               <closer>
+                  <dateline>
+                     <date>Auguſt 31. 1649.</date>
+                  </dateline>
+                  <signed>And your Petitioner ſhall daily pray God to reward you. Godfrey Goodman.</signed>
+               </closer>
+            </div>
+            <div type="testimonial">
+               <opener>
+                  <dateline>
+                     <date>Quarto Aprilis 1649.</date>
+                  </dateline>
+               </opener>
+               <p>WE whoſe names are hereunto ſubſcribed do hereby certifie; That <hi>Godfrey Goodman</hi> late Biſhop of <hi>Glouceſter,</hi> hath lived in this Countrey and County, now for the ſpace of ſixe yeares or thereabouts, in effect during the whole time of the Warre, in which time there have beene here diverſe and ſeverall Armies, ſome for the King, ſome for the Parliament: Yet we neither know, nor ever heard that the ſaid <hi>God<g ref="char:EOLhyphen"/>frey Goodman,</hi> did ever enterpoſe or intermeddle in any matters of Warre; but hath ever lived quietly &amp; privately. And this we can do no leſſe than teſtifie at his requeſt, now at his departure out of this Country.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Tho: Madrin.</hi> Vic. Car.</item>
+                        <item>
+                           <hi>Tho: Williams</hi>
+                        </item>
+                        <item>
+                           <hi>Iohn Owen.</hi>
+                        </item>
+                        <item>
+                           <hi>Io. Parry.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="testimonial">
+               <p>WE alſo whoſe names are hereunto ſubſcribed, doe hereby teſtifie that the above mentioned <hi>Godfrey Goodman,</hi> for the ſpace of a yeare laſt paſt ſince our reſidence in <hi>Carnarvon,</hi> hath not intermedled with any buſineſſe concerning Warlike affaires; but hath demeaned himſelfe as is above ſpecified by the Gentlemen of that Countrey.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Tho: Maſon.</hi>
+                        </item>
+                        <item>
+                           <hi>Marke Mould.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+         <div type="letter_of_petition">
+            <head>To the Honourable <hi>William Lenthall,</hi> Speaker of the Parliament of <hi>England</hi> and Recorder of the City of <hi>Glouceſter,</hi> and to the Knights Citizens and Burgeſſes of the ſaid City and County of <hi>Glouceſter.</hi> attending in <hi>PARLIAMENT.</hi>
+            </head>
+            <opener>
+               <salute>Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>T the earneſt requeſt of our late Biſhop Doctor <hi>Goodman,</hi> who by his owne relation hath ſuffered in theſe times as much proportiona<g ref="char:EOLhyphen"/>bly as any man hath done; Yet hath Certificates from the high Sheriffe, Juſtices, Committees, Governours of Caſtles where hee lived, that he never intepoſed in any matter of Warr. Having loſt in effect all his meanes, and not onely his owne, but very much what belonged to others, by whom he was intruſted, and for which he muſt make ſatisfaction, to a very great value. Though we write no<g ref="char:EOLhyphen"/>thing in commendations of him (which he in his Modeſty deſires may be forborne) Yet ſurely we can doe no leſſe than give him this Teſtimony, that he hath lived very quietly and lovingly amongſt us for theſe twenty yeares. And conſidering the courſe of his expence, we con<g ref="char:EOLhyphen"/>ceive he could not inrich himſelfe by his Biſhopprick. And having now lived for the ſpace of Seven yeares wholy upon his owne ſtock, and that now utterly exhauſted. Our humble deſire is, that ye move the Honorable Houſe of Commons, that he may have ſome meanes wherewith to ſub<g ref="char:EOLhyphen"/>ſiſt, and that ye would be pleaſed to further him in his Petition, which we hope will be done, the rather upon our recommendations whom you repreſent in Parliament; And this we earneſtly deſire, ever reſting</p>
+            <closer>
+               <signed>Your humble and faithfull Servants,
+<list>
+                     <head>Gentlemen of <hi>Glou<g ref="char:EOLhyphen"/>ceſter-ſhire.</hi>
+                     </head>
+                     <item>William Shepheard</item>
+                     <item>William Stafford</item>
+                     <item>Edward Kingſcot</item>
+                     <item>Richard Yate</item>
+                     <item>Iohn Brayne</item>
+                     <item>Iohn Giffard</item>
+                     <item>John Corwell</item>
+                     <item>Anthony Gifford</item>
+                     <item>William Selvyn</item>
+                     <item>Thomas Hylwey</item>
+                     <item>Arthur Fonler</item>
+                     <item>William Leigh</item>
+                     <item>William Mewe</item>
+                     <item>Thomas Eſtcourt</item>
+                  </list>
+                  <list>
+                     <head>Citizens of <hi>Glouceſter.</hi>
+                     </head>
+                     <item>Henry Cugly <hi>Major.</hi>
+                     </item>
+                     <item>William Singleton</item>
+                     <item>Iohn Hanbury</item>
+                     <item>Thomas Hill</item>
+                     <item>Edward Nourſe</item>
+                     <item>Laurence Singleton</item>
+                     <item>De: Wiſe</item>
+                     <item>Iohn Madocke</item>
+                     <item>Iaſ. Clutterbooke</item>
+                     <item>Iames Stephens</item>
+                     <item>Iohn Dorney</item>
+                     <item>William Clarke,</item>
+                     <item>Richard Tayler</item>
+                     <item>Richard Harware</item>
+                     <item>Nathaniell Hodges</item>
+                     <item>Edward Collett</item>
+                     <item>John Wood</item>
+                     <item>Robert Tyther</item>
+                     <item>Robert Pewin</item>
+                     <item>Thomas Peirce</item>
+                     <item>Iam. Commelin</item>
+                     <item>Thomas Cooke.</item>
+                  </list>
+                  <list>
+                     <head>Burgeſſes of <hi>Tukesbury.</hi>
+                     </head>
+                     <item>Iohn Man</item>
+                     <item>Chr: Atkinſon <hi>Baylifes.</hi>
+                     </item>
+                     <item>William Wilſon</item>
+                     <item>Richard Mince</item>
+                     <item>Thomas Hale</item>
+                     <item>Edward Ienings</item>
+                     <item>Thomas Hales, <hi>Senior.</hi>
+                     </item>
+                     <item>William Whitledge</item>
+                     <item>Iohn Orrell</item>
+                     <item>Iohn Schiter</item>
+                     <item>Iohn Millington</item>
+                     <item>Phillip Hilly</item>
+                     <item>Iohn Carver</item>
+                     <item>Henry Robins</item>
+                     <item>William Fowler</item>
+                     <item>Iohn Browne</item>
+                     <item>William Scudamore</item>
+                  </list>
+                  <list>
+                     <head>Burgeſſes of <hi>Cirenceſter</hi>
+                     </head>
+                     <item>Andrew Solace</item>
+                     <item>Giles Handcox</item>
+                     <item>Amos Danſey</item>
+                     <item>Iohn Broade</item>
+                     <item>Thomas Roberts</item>
+                     <item>Iohn Woodball</item>
+                     <item>Thomas Deacon</item>
+                     <item>Edmond Freeman</item>
+                     <item>Iohn Kenible</item>
+                     <item>Thomas Gibbs</item>
+                     <item>Richard Maſſinger</item>
+                     <item>Iohn Shingleton</item>
+                     <item>Thomas Witcombe</item>
+                     <item>Thomas Trippett</item>
+                     <item>Iohn Maddockes</item>
+                     <item>Iohn Screven</item>
+                     <item>William Starr</item>
+                     <item>Iohn Tomes</item>
+                     <item>William Ruſſell</item>
+                     <item>Ieffery Beale</item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>Windſor</hi> and ſome other Gentlemen of <hi>Bark-ſhire</hi> have written to the ſame effect, but becauſe they writ ſome thing in commendation, &amp;c. there<g ref="char:EOLhyphen"/>fore they are not publiſhed. In regard of my age beeing neere 70. and a great infirmity, I cannot ſolicite my owne buſineſſe, but do deſire that what favour ſhall be ſhewed me, may be aſcribed under Gods mercy and providence, to your owne goodneſſe and compaſſion, and not to my importunity.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
